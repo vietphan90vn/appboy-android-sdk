@@ -1,4 +1,4 @@
-include ':android-sdk-ui'
+include ':android-sdk-ui', ':baidupush'
 include ':android-sdk-unity'
 include ':droidboy'
 include ':hello-appboy'
